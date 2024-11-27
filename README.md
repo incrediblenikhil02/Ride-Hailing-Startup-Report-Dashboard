@@ -17,4 +17,5 @@ This repository contains an Excel-based data analysis dashboard created for a ri
 - Data Visualization
 
 ## Screenshots
-![Dashboard Preview](Ride hailing startup dataset-1..png)
+![Dashboard Preview]
+(Ride hailing startup dataset-1.png)
